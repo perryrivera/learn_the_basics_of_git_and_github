@@ -71,5 +71,5 @@ Access: If it’s just you, choose toplevel checkboxes
 - See what's in your directory
 	- ```ls```
 - ```git add <file>```
-```git commit <file>```
+		```git commit <file>```
 - Enter commit message, e.g. Initial Commit
