@@ -72,5 +72,5 @@ Access: If it’s just you, choose toplevel checkboxes
 	- ```ls```
 - ```git add <file>```
 ##
-		```git commit <file>```
+		git commit <file>
 - Enter commit message, e.g. Initial Commit
