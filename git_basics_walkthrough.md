@@ -67,10 +67,15 @@ Access: If it’s just you, choose toplevel checkboxes
 
 ## How to stage and add files
 - Create a file
-	- ```echo blah > this_is_my_first_textfile```
+######
+		echo blah > this_is_my_first_textfile
 - See what's in your directory
-	- ```ls```
-- ```git add <file>```
-##
+######
+		ls
+######
+		git add <file>
+######
 		git commit <file>
-- Enter commit message, e.g. Initial Commit
+- Enter commit message, e.g.
+######
+		Initial Commit
