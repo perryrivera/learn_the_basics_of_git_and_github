@@ -52,7 +52,7 @@ Access: If it’s just you, choose toplevel checkboxes
 - ```git status```
 - ```git push```
 
-# How to associate your directory with your remote repository
+# How to add a remote repository to your local repository
 
 - Switch to your repo directory
 	```cd ~/repo```
