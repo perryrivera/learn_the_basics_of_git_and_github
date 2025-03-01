@@ -47,12 +47,18 @@ Access: If it’s just you, choose toplevel checkboxes
 	- Select **Private** (unless you plan to share, then select something else appropriate...)
 	- Click **Create repository**
 
-## How to associate local directories with your repository
-- ```mkdir myfirstrepo coolproject```
-	- ```cd myfirstrepo && git init```
-	- ```cd ..```
-	- ```cd secondproject && git init```
-
+## How to associate local directories with your remote repository
+- Create a directory to house the data from the remote repository
+######
+		mkdir myfirstrepo && cd $_
+- Initialize the directory for the git application
+######
+		git init```
+######
+		ls
+######
+		cd ..
+  
 # Configuring git [part 2]
 - ```cd myfirstrepo```
 - ```git remote add origin <url>```
