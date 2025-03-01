@@ -1,6 +1,6 @@
 # Learn the Basics of Git and GitHub
 
-# Set up Github.com
+## Set up Github.com
 - https://github.com/
 - Upper right-hand corner
 	- **Sign up**
@@ -20,15 +20,15 @@ Access: If it’s just you, choose toplevel checkboxes
 - Click Generate token	
 - IMPORTANT: Make sure to copy and secure your token in a vault, such as KeePassXC
 
-# Installing git
+## Installing git
 - Check version of git
 ######
 		git version
 - See a version? Great!
 	- If not, refer to: https://github.com/git-guides/install-git
  
-# Configuring a staging area
-- Define a spot to set up repositories
+## Configuring a staging area
+- Define a spot to set up repositories. For this example, we'd like to make a directory under ~ called repo, i.e. ~/repo .
 - Open up your favorite terminal app / shell
 #######
 		cd ~
