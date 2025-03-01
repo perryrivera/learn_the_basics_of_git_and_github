@@ -9,12 +9,12 @@
 ## Generate a token
 - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-fine-grained-personal-access-token
 - Click your picture
-- Click Developer settings
+- Click Settings. Then, in the left-hand menu, scroll down and click Developer settings
 - Click Personal Access Tokens
 - Click Tokens (classic)
 - Click Generate New Token
 - Click Generate New Token (classic)
-- Note: Personal Access Token DD/MM/YYYY 
+- For Note: Personal Access Token DD/MM/YYYY 
 Expiration: (leave at 30 days)
 Access: If it’s just you, choose toplevel checkboxes
 - Click Generate token	
