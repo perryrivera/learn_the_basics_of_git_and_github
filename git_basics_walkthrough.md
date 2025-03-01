@@ -62,7 +62,7 @@ Access: If it’s just you, choose toplevel checkboxes
   
 ## How to perform initial clone
 ######
-		cd myfirstrepo
+		cd my-first-repo
 - To figure out the URL link, go the place you'd like to clone, e.g. https://github.com/perryrivera/my-test-repo
 - Click the green **Code** button
 - Click the copy button to the right of the https url
@@ -81,18 +81,24 @@ Access: If it’s just you, choose toplevel checkboxes
 - See also https://stackoverflow.com/questions/2505096/clone-a-private-repository-github
 
 
-# How to add a remote repository to your local repository
+## How to add a remote repository to your local repository
 
 - Switch to your repo directory
-	```cd ~/repo```
+######
+		cd ~/repo
 - Use your **gitusername**
-	```git remote add origin https://github.com/mygitusername/my-first-repo.git```
+
+######
+		git remote add origin https://github.com/mygitusername/my-first-repo.git
+  
 - NOTE: If you get error fatal: “not a git repository”, did you do a git init yet???
 
 ## How to set up global config
 * While still in ~/repo/my-first-repo:
-	```git config --global user.email "my_email@gmail.com"```
-	```git config --global user.name "First Last"```
+######
+		git config --global user.email "my_email@gmail.com"
+######
+		git config --global user.name "First Last"
 
 ## How to stage and add files
 - Create a file
