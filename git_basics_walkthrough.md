@@ -22,22 +22,30 @@ Access: If it’s just you, choose toplevel checkboxes
 
 # Installing git
 - Check version of git
-	- ```git version```
-		- See a version? Great!
-		- If not, refer to: https://github.com/git-guides/install-git
+######
+		git version
+- See a version? Great!
+	- If not, refer to: https://github.com/git-guides/install-git
  
 # Configuring a staging area
 - Define a spot to set up repositories
-	- ```mkdir repo && cd $_```
+- Open up your favorite terminal app / shell
+#######
+		cd ~
+
+- Make a repo directory and cd into it...
+- #######
+		mkdir repo && cd $_
+
 	
 ## How to create a repository
 
-- In a browser, after changing username: https://github.com/username?tab=repositories
-- In the upper-right hand side, click the New button
+- Click your **picture** then click **Your repositories**.
+- In the upper-right hand corner, click the **New** button
 	- Repository name: my-first-repo
 	- Description: my-first-repo
-	- Select Private
-	- Click Create repository
+	- Select **Private** (unless you plan to share, then select something else appropriate...)
+	- Click **Create repository**
 
 ## How to associate local directories with your repository
 - ```mkdir myfirstrepo coolproject```
