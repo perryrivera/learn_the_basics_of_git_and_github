@@ -114,3 +114,36 @@ Access: If it’s just you, choose toplevel checkboxes
 - Enter commit message, e.g.
 ######
 		Initial Commit
+
+## Pushing the file to origin's repo
+- Create a file
+######
+		git push --set-upstream origin master
+- Enter username
+- Enter password, which is a copy of your Personal Access Token. This is good for 30days (or whatever duration you set previously..).
+
+## How to create a branch
+
+######
+		git branch firstBranch main
+######
+		git checkout firstBranch
+######
+		git stash
+######
+		git switch main
+
+## How to cherry-pick files
+
+- Find the commit you want
+  
+######
+		git log <name of committed file
+- Copy the commit id into your clipboard
+######
+		git checkout featureBranch
+######
+		git pull
+######
+		git switch main
+
