@@ -127,13 +127,23 @@ Access: If it’s just you, choose toplevel checkboxes
 ## How to create a branch
 
 ######
-		git branch firstBranch main
+		git branch firstBranch
 ######
 		git checkout firstBranch
 ######
+		touch bugfix1
+######
+		touch bugfix2
+######
+		git add bugfix1
+######
+		git add bugfix2
+######
 		git stash
 ######
-		git switch main
+		git push --set-upstream origin firstBranch
+######
+		git checkout main
 
 ## How to cherry-pick files
 
