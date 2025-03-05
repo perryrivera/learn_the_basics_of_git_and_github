@@ -20,6 +20,14 @@ Access: If it’s just you, choose toplevel checkboxes
 - Click Generate token	
 - IMPORTANT: Make sure to copy and secure your token in a vault, such as KeePassXC
 
+## Re-generate a token
+- Click your picture
+- Click Settings. On the left hand menu, scroll down and click Developer settings
+- Click Personal Access Tokens
+- Click Tokens (classic)
+- Click on the token you created about a month ago...
+- Click Re-generate Token. 
+
 ## Installing git
 - Check version of git
 ######
