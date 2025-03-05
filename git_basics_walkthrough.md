@@ -1,5 +1,8 @@
 # Learn the Basics of Git and GitHub
 
+## Disclaimer
+Every effort has been made to offer current and accurate information to our users, but errors can occur. We assume no liability or responsibility for any errors or omissions in the content contained in this presentation. This information is provided “as is,” with no guarantees of completeness, accuracy or timeliness, and without warranties of any kind, express or implied. We do not warrant that this presentation, various services provided through this presentation, and any information, software, or other material downloaded from this presentation, will be uninterrupted, error-free, omission-free, or free of viruses or other harmful components. To the fullest extent permissible pursuant to applicable law, we disclaim all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose.
+
 ## Set up Github.com
 - https://github.com/
 - Upper right-hand corner
