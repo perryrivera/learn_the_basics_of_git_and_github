@@ -38,11 +38,11 @@ Access: If it’s just you, choose toplevel checkboxes
 ## Configuring a staging area
 - Define a spot to set up repositories. For this example, we'd like to make a directory under ~ called repo, i.e. ~/repo .
 - Open up your favorite terminal app / shell
-#######
+######
 		cd ~
 
 - Make a repo directory and cd into it...
-- #######
+- ######
 		mkdir repo && cd $_
 
 	
