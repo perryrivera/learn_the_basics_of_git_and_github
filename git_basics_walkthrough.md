@@ -138,7 +138,7 @@ Access: If it’s just you, choose toplevel checkboxes
 - Find the commit you want
   
 ######
-		git log <name of committed file
+		git log <name of committed file>
 - Copy the commit id into your clipboard
 ######
 		git checkout featureBranch
