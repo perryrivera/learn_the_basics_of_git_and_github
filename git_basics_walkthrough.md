@@ -99,6 +99,8 @@ Access: If it’s just you, choose toplevel checkboxes
 		git config --global user.email "my_email@gmail.com"
 ######
 		git config --global user.name "First Last"
+######
+		git config --list
 
 ## How to stage and add files
 - Create a file
