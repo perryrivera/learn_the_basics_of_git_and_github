@@ -128,6 +128,19 @@ Access: If it’s just you, choose toplevel checkboxes
 ######
 		Initial Commit
 
+## How to tag a file
+- Use it to tag the last commit
+- Simple Tag: git tag
+######
+		git tag release4
+- Annotative Tag: git -a tag
+######
+		git -a tag v5.4.2 “Silver Edition Release v5.4.2”
+######
+		git log --one-line
+######
+		git tag -n
+
 ## Pushing the file to origin's repo
 - Create a file
 ######
