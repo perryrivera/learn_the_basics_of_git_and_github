@@ -133,7 +133,7 @@ Access: If it’s just you, choose toplevel checkboxes
 ######
 		git push --set-upstream origin master
 - Enter username
-- Enter password, which is a copy of your Personal Access Token. This is good for 30days (or whatever duration you set previously..).
+- Enter password, which is a copy of your Personal Access Token. This is good for 30 days (or whatever duration you set previously..).
 
 ## How to create a branch
 
